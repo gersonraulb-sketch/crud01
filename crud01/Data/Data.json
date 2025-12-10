@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "id": 2,
+      "nombre": "Sin nombre",
+      "precio": 0,
+      "createdAt": "2025-12-09T19:27:42.602Z"
+    },
+    {
+      "id": 3,
+      "nombre": "Tarjeta Descuento",
+      "precio": 16044,
+      "createdAt": "2025-12-09T19:32:27.465Z",
+      "updatedAt": "2025-12-09T19:39:14.576Z"
+    },
+    {
+      "id": 4,
+      "nombre": "Sin nombre",
+      "precio": 0,
+      "createdAt": "2025-12-09T19:40:04.105Z"
+    }
+  ]
+}
